@@ -1,1 +1,0 @@
-import{l as c,b as e,c as s}from"./CcjVsHax.js";const a={},o={class:"card"};function t(r,d){return e(),s("div",o,"This is a custom card component")}const _=c(a,[["render",t],["__scopeId","data-v-09d34dda"]]);export{_ as default};
