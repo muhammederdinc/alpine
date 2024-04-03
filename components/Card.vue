@@ -1,7 +1,5 @@
 <template>
-  <div class="card">
-    <slot />
-  </div>
+  <div class="card">This is a custom card component</div>
 </template>
 
 <style scoped>
