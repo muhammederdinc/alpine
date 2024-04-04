@@ -1,0 +1,1 @@
+import{l as s,b as c,c as o,e,t as a}from"./VH0Je3Wo.js";const r={class:"card"},l={class:"card__title"},d={__name:"CustomCard",props:{title:{type:String,default:"Title"},text:{type:String,default:"Text"}},setup(t){return(i,n)=>(c(),o("div",r,[e("div",l,a(t.title),1),e("div",null,a(t.text),1)]))}},p=s(d,[["__scopeId","data-v-9e399fa5"]]);export{p as default};

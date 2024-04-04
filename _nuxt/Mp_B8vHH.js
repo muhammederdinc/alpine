@@ -1,1 +1,0 @@
-import{l as c,b as s,c as e}from"./Cxg6a1cq.js";const o={},t={class:"card"};function a(r,n){return s(),e("div",t,"This is a custom card component")}const d=c(o,[["render",a],["__scopeId","data-v-ba6b0614"]]);export{d as default};
